@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-05-31T06:40:00+0300",
+  "status": "READY_FOR_GITHUB_PAGES_PUBLISH",
+  "checkout_link_present": true,
+  "checkout_context": "owned page after proof explanation",
+  "customer_sends_made": false,
+  "access_granted": false,
+  "files": [
+    ".nojekyll",
+    "README.md",
+    "assets",
+    "desktop_preview.png",
+    "downloads",
+    "index.html",
+    "mobile_preview.png",
+    "thanks.html"
+  ]
+}
