@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ettett7.github.io/profitbot-gold-proof-preview/sitemap.xml
+

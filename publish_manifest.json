@@ -11,12 +11,24 @@
     "README.md",
     "assets",
     "community-owner.html",
+    "community-owner_mobile_preview.png",
     "desktop_preview.png",
     "downloads",
+    "free-proof-preview.html",
+    "free-proof-preview_mobile_preview.png",
     "index.html",
     "mobile_preview.png",
     "private-trader.html",
+    "private-trader_mobile_preview.png",
     "product-partner.html",
-    "thanks.html"
+    "product-partner_mobile_preview.png",
+    "robots.txt",
+    "sitemap.xml",
+    "thanks.html",
+    "thanks_mobile_preview.png",
+    "tradingview-gold-strategy.html",
+    "tradingview-gold-strategy_mobile_preview.png",
+    "xauusd-tradingview-strategy.html",
+    "xauusd-tradingview-strategy_mobile_preview.png"
   ]
 }
