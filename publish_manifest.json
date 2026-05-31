@@ -6,13 +6,17 @@
   "customer_sends_made": false,
   "access_granted": false,
   "files": [
+    ".git",
     ".nojekyll",
     "README.md",
     "assets",
+    "community-owner.html",
     "desktop_preview.png",
     "downloads",
     "index.html",
     "mobile_preview.png",
+    "private-trader.html",
+    "product-partner.html",
     "thanks.html"
   ]
 }

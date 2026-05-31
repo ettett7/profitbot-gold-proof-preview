@@ -10,6 +10,7 @@ Static public Proof Preview landing page.
 - Contains one owned-page beta checkout link after proof context.
 - Contains a FormSubmit lead-capture form plus mailto fallback.
 - Uses an owned thank-you page after form submission.
+- Adds segmented pages for private traders, community owners, and product partners.
 - Does not grant access.
 - Does not send any email automatically.
 - No guaranteed-profit, live-ready, prop-pass, investment-advice, or account-management claim.
