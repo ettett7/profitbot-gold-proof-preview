@@ -10,6 +10,7 @@ Static public Proof Preview landing page.
 - Contains one owned-page beta checkout link after proof context.
 - Contains a FormSubmit lead-capture form plus mailto fallback.
 - Uses an owned thank-you page after form submission.
+- Adds a public store page with free proof preview, fit review, and beta checkout after context.
 - Adds segmented pages for private traders, community owners, and product partners.
 - Adds discovery pages for free proof preview, XAUUSD TradingView strategy, and TradingView gold strategy search intent.
 - Includes robots.txt and sitemap.xml.
